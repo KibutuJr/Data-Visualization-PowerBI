@@ -1,8 +1,4 @@
-Here's the updated `README.md` file with **"Tableau"** replaced by **"Power BI"** throughout, while preserving the formatting and context:
-
----
-
-# Tata Data Visualisation – Power BI Project
+# Tata Data Visualization – Power BI Project
 
 📌 **Overview**  
 This repository showcases a data analysis and visualization project completed as part of the Tata Data Visualisation Virtual Experience Program hosted on Forage. The task projects a real-world business scenario, focusing on how a data analyst at Tata might handle, explore, and visualize sales data to uncover actionable insights and drive better decision-making.
