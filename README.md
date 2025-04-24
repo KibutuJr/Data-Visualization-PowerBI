@@ -5,6 +5,8 @@ This repository showcases a data analysis and visualization project completed as
 
 The goal of this project was to turn raw data into valuable visual insights that inform business strategy, support growth opportunities, and highlight areas for improvement within the sales pipeline. **Power BI** was used as the primary tool for both data cleaning and visualization.
 
+Additionally, this repository includes supplementary resources such as a PDF document on data visualization and an online retail dataset for further analysis.
+
 ---
 
 🎯 **Project Objectives**  
@@ -21,6 +23,8 @@ The primary objectives of this project were:
 
 | File/Folder | Description |
 |-------------|-------------|
+| OnlineRetailData.xlsx | The raw sales data used for analysis, including information on transactions, products, and customer details. |
+| Data Visualisation-Empowering Business with Effective Insights-PowerBI.pdf | A PDF document discussing the role of data visualization in empowering business decisions using Power BI. |
 | OnlineRetailPowerBI.pbix | Power BI project file containing all visualizations and data |
 | README.md | Project documentation (this file) |
 
@@ -103,4 +107,3 @@ If you found this project useful, consider:
 
 📌 **Disclaimer**  
 This project is a simulated experience provided by Forage for educational and professional development purposes. It does not represent actual company data from the Tata Group.
-
